@@ -1,7 +1,7 @@
 ---
 title: "IT"
 date: 2023-07-19T14:20:41+09:00
-draft: true
+draft: false
 menu:
   main:
     weight: 1

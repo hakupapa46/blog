@@ -1,7 +1,7 @@
 ---
 title: "子育て"
 date: 2023-07-19T14:25:41+09:00
-draft: true
+draft: false
 menu:
   main:
     weight: 2
