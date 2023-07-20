@@ -5,6 +5,7 @@ draft: false
 menu:
   main:
     weight: 3
+featured_image: '/images/moon.webp'
 ---
 
 # その他

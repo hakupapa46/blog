@@ -5,6 +5,7 @@ draft: false
 menu:
   main:
     weight: 2
+featured_image: '/images/sakura.webp'
 ---
 
 子育て関連のことを書いていく!  
