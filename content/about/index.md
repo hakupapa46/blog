@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-07-17T22:47:27+09:00
-featured_image: '/images/top.jpg'
+featured_image: '/images/tokyo.webp'
 draft: false
 menu:
   main:
