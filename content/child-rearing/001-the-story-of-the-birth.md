@@ -40,3 +40,5 @@ draft: false
 奇跡は起きるもんだな。
 
 がんばってくれてありがとう、妻と娘。そしてありがとう、ジムとサイゼリヤ。
+
+次回、[生まれた後の新しい生活](http://localhost:1313/blog/child-rearing/002-beginning-of-child-rearing/)。
