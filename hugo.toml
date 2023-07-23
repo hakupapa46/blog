@@ -2,3 +2,8 @@ baseURL = 'https://hakupapa46.github.io/blog/'
 languageCode = 'ja'
 title = 'はくパパブログ'
 theme = 'ananke'
+googleAnalytics = "G-8H1ZB5WXRG"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/hakupappa3"
